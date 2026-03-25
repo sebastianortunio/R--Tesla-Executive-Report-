@@ -264,7 +264,7 @@ ggplot(utility_count_tesla, aes(x = reorder(Electric_Utility, count), y = count)
 ```
 <img width="960" height="593" alt="image" src="https://github.com/user-attachments/assets/50773da0-c881-4113-9998-4131af3489ac" />
 
-```
+
 
 
 The chart highlights that Tesla adoption in Washington is heavily concentrated among a few key electric utility providers, with Puget Sound Energy and its related service areas accounting for the largest share by a significant margin. This suggests that regions served by these utilities have stronger infrastructure, incentives, or demand for electric vehicles, particularly Tesla. Other utilities, such as Seattle City Light and Bonneville Power Administration, show lower but still notable counts, indicating more moderate adoption levels. Overall, the results imply that local utility coverage and regional energy support systems may play an important role in influencing where Tesla vehicles are most prevalent.
